@@ -82,11 +82,10 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Alan Ball
 1. Alan Diggs (Schykle)
 1. Alan Pope
-1. Alberto Ruiz (GNOME, Fedora & LibreOffice contributor)
 1. Alexander Herzig (Release Manager SUSE Linux Enterprise)
 1. Alexander Jacocks (Red Hat)
 1. Alexander Koderman
-1. Alexander `lynxis` Couzens (OpenWrt, osmocom)
+1. Alexander `lynxis` Couzens (OpenWrt, osmcocom)
 1. Alexander Windahl
 1. Alexandra Moylett
 1. Alexandra Stehr
@@ -829,7 +828,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Máirín Duffy (Fedora Project, former FSF HPP committee member, former LP speaker)
 1. Malleck Braun
 1. Malte `m4schini` Schink
-1. Malvika Sharan
 1. Mandy Henk
 1. Mano Marks
 1. Manuel Genovés (GNOME)
@@ -899,7 +897,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Mélissa Richard
 1. Micah Anderson
 1. Micah E Scott
-1. Micah Lee
 1. Michael Babker (Former Production Department Coordinator for Joomla!/OpenSourceMatters)
 1. Michael Bikovitsky
 1. Michael Bond (FSF Associate Member)
@@ -917,7 +914,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Michael Reiger
 1. Michael Schechter
 1. Michael Scherer
-1. Michael T. Lombardi (@michaeltlombardi, Puppet developer)
 1. Michal Siedlaczek
 1. Mika Pflüger
 1. Mike Doughney (co-founder, Digital Express Group / DIGEX Incorporated)
@@ -1171,7 +1167,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Sean O'Brien
 1. Sebastian Dröge (GStreamer, GNOME, Debian)
 1. Sebastian Ramacher (Debian Developer)
-1. Sebastian Stauch (@sebidude)
 1. Sébastien Villemot (Debian Developer, FSF associate member)
 1. Seebs
 1. SeongHyun Lee (Kevin Lee / 케빈 리)
@@ -1213,13 +1208,11 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Stefan T. Peters
 1. Stefan Weiberg (Technical Projectmanager SUSE Linux Enterprise)
 1. Stemy (amateur independant self-host)
-1. Step Schwarz
 1. Stephane Graber (LXC, former Ubuntu Technical Board member)
 1. Stephanie Whited
 1. Stephan Lachnit (Debian Maintainer)
 1. Stephen A. Goss
 1. Stephen O'Grady
-1. Steve Desmond
 1. Steve Langasek (former Debian Technical Committee member; Ubuntu Technical Board member)
 1. Steve McIntyre (Former Debian Project Leader)
 1. Steven Beattie
@@ -1303,49 +1296,49 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Vitor "Krammer" Cardoso
 1. Vivia Nikolaidou (GStreamer)
 1. Vojtěch Vengrin (Gnome translator)
-1. Ward Vandewege (Former FSF staff and FSF member)
-1. Wayne M. Thornton, B.S., CPDT (Co-Founder & Project Manager VIRATRACE)
-1. Wendy Bolm (Chief Operations Officer, CommitChange)
-1. Wendy Seltzer
-1. Wes Mason (Ubuntu Community Member and former FSFE Fellow)
-1. Weston Steimel
-1. Wheeler Law (Red Hat Inc.)
-1. whitequark
-1. Will Barton
-1. Will Greenberg (EFF, signing in personal capacity)
-1. Will Hawkins
-1. Will Hunt (`Half-Shot`)
-1. William D. Jones (`cr1901`)
-1. William Kroes
-1. William Starkey
-1. William Theaker (Former FSF staff member)
-1. Will Lachance (Mozilla)
-1. Wilson "Chilly" Hightower
-1. Wim Taymans (PipeWire, GStreamer)
-1. Wolthera van Hövell (Krita/KDE)
-1. Wulf C. Krueger (Exherbo Linux)
-1. Xabier Rodríguez Calvar
-1. Xavier Tilley
-1. Xavi Francisco
-1. Xav Paice
-1. Yadav Lamichhane
-1. Yangwook Jeong (@Yangeok)
-1. Yao Li (former FSF Monthly Student Associate Member)
-1. Yaroslav Kargapolov
-1. Yegor Timoshenko (NixOS contributor)
-1. Yorik van Havre
-1. Youngbin Han (Ubuntu Korea Community)
-1. Young Hun Kim
-1. Yuval Adam
-1. Yuvi Panda (Project Jupyter)
-1. Yu-Wei Wu
-1. Yvan Sraka
-1. Yvonne Lam
-1. Zac Adam-MacEwen (Arcana Labs)
-1. Zach Klippenstein (aka @zach-klippenstein, Square)
-1. Zach Lipton
-1. Zach van Rijn
-1. Zack Cerza
-1. Zeltzin Rodríguez
-1. Zvi Gilboa
+1. Volkan Yazıcı (Apache Logging Services PMC)
+3. Wayne M. Thornton, B.S., CPDT (Co-Founder & Project Manager VIRATRACE)
+4. Wendy Bolm (Chief Operations Officer, CommitChange)
+5. Wendy Seltzer
+6. Wes Mason (Ubuntu Community Member and former FSFE Fellow)
+7. Weston Steimel
+8. Wheeler Law (Red Hat Inc.)
+9. whitequark
+10. Will Barton
+11. Will Greenberg (EFF, signing in personal capacity)
+12. Will Hawkins
+13. Will Hunt (`Half-Shot`)
+14. William D. Jones (`cr1901`)
+15. William Kroes
+16. William Starkey
+17. William Theaker (Former FSF staff member)
+18. Will Lachance (Mozilla)
+19. Wilson "Chilly" Hightower
+20. Wim Taymans (PipeWire, GStreamer)
+21. Wolthera van Hövell (Krita/KDE)
+22. Wulf C. Krueger (Exherbo Linux)
+23. Xabier Rodríguez Calvar
+24. Xavier Tilley
+25. Xavi Francisco
+26. Xav Paice
+27. Yadav Lamichhane
+28. Yangwook Jeong (@Yangeok)
+29. Yao Li (former FSF Monthly Student Associate Member)
+30. Yaroslav Kargapolov
+31. Yegor Timoshenko (NixOS contributor)
+32. Yorik van Havre
+33. Youngbin Han (Ubuntu Korea Community)
+34. Young Hun Kim
+35. Yuval Adam
+36. Yuvi Panda (Project Jupyter)
+37. Yu-Wei Wu
+38. Yvan Sraka
+39. Yvonne Lam
+40. Zac Adam-MacEwen (Arcana Labs)
+41. Zach Klippenstein (aka @zach-klippenstein, Square)
+42. Zach Lipton
+43. Zach van Rijn
+44. Zack Cerza
+45. Zeltzin Rodríguez
+46. Zvi Gilboa
 <!-- Do not add your name to the bottom, it needs adding in alphabetical order above -->
